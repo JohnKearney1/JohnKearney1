@@ -8,4 +8,4 @@ I'm John!
 
 💬 Got a question? [Contact](https://kearneyjohn.com/contact) me! (No need to de-anonymize 😄)
 
-⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡ • 📄 [Repo Listings]() 📄 • 🔮 [Documentation]() 🔮
+⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡ • 📄 [Index]() 📄 • 🔮 [Documentation]() 🔮
