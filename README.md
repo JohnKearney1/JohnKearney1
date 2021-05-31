@@ -2,10 +2,14 @@
 
 I'm John! 
 
+💫 At the moment, I'm building out the Solana REST API and a documentation archive.
 
-🔭 I’m currently working on... Fiduciary tools (mainly in Python).   
-🌱 I’m currently learning... React, NodeJS, and IPFS systems for distributed networking systems!
+🔭 I’m currently working on... Fiduciary tools (mainly Python) and UI/UX Design (JavaScript flavors).   
+🌱 I’m currently learning... React, Node, and IPFS systems for distributed networking systems!
 
-💬 Got a question? [Contact](https://kearneyjohn.com/contact) me! (No need to de-anonymize 😄)
+💬 Got a question? [Contact](https://kearneyjohn.com/contact) me!
 
-⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡ • 📄 [Index]() 📄 • 🔮 [Documentation]() 🔮
+⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡   
+🔮 [Documentation]() 🔮  
+📄 [Index]() 📄    
+
