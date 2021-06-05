@@ -11,5 +11,5 @@ I'm John!
 
 ⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡   
 🔮 [Documentation](https://docs.kearneyjohn.com) 🔮  
-📄 [Index](https://docs.kearneyjohn.com/docs/documentation) 📄    
+📄 [Index](https://github.com/JohnKearney1/documentation/blob/main/docs/documentation.md) 📄    
 
