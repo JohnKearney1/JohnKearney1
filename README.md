@@ -10,6 +10,6 @@ I'm John!
 💬 Got a question? [Contact](https://kearneyjohn.com/contact) me!
 
 ⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡   
-🔮 [Documentation]() 🔮  
-📄 [Index]() 📄    
+🔮 [Documentation](https://docs.kearneyjohn.com) 🔮  
+📄 [Index](https://docs.kearneyjohn.com/docs/documentation) 📄    
 
