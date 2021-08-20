@@ -2,7 +2,7 @@
 
 I'm John! 
 
-💫 At the moment, I'm building out the Solana REST API and a documentation archive.
+I'm building out the Solana REST API and a documentation archive.
 
 🔭 I’m currently working on... Fiduciary tools (mainly Python) and UI/UX Design (JavaScript flavors).   
 🌱 I’m currently learning... React, Node, and IPFS systems for distributed networking systems!
