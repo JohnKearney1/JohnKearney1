@@ -2,8 +2,6 @@
 
 I'm John! 
 
-I'm building out [pITM](https://github.com/JohnKearney1/pITM)!
-
 🔭 I’m currently working on... Fiduciary tools (mainly Python) and UI/UX Design (JavaScript flavors).   
 🌱 I’m currently learning... Python, React, Node, and IPFS systems for distributed networking systems!
 
