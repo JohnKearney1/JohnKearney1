@@ -11,11 +11,8 @@ All of my repositories function of four basic premises:
 3. Freedom to copy and redistribute
 4. Freedom to improve and release modifications
 
-**"Not free as in free beer, Free as in free speech" - rms**
-
 💬 Want to Contribute? [Contact](https://kearneyjohn.com/about) me!
 
 ⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡   
-🔮 [Documentation](https://docs.kearneyjohn.com) 🔮  
 📄 [Index](https://github.com/JohnKearney1/documentation/blob/main/docs/documentation.md) 📄    
 
