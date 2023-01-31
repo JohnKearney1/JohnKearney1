@@ -3,7 +3,7 @@
 I'm John! 
 
 🔭 I’m currently working on... Fiduciary tools (mainly Python) and UI/UX Design (JavaScript flavors).   
-🌱 I’m currently learning... Python, React, Node, and IPFS systems for distributed networking systems!
+🌱 I’m currently learning... Python, React, Node, and IPFS systems for distributed networking systems.
 
 All of my repositories function of four basic premises:
 1. Freedom to use programs for any purpose
