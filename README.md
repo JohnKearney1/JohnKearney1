@@ -8,5 +8,4 @@ I'm John!
 💬 Want to Contribute? [Contact](https://kearneyjohn.com/) me!
 
 ⚡ [KearneyJohn.com](https://kearneyjohn.com) ⚡   
-📄 [Index](https://github.com/JohnKearney1/documentation/blob/main/docs/documentation.md) 📄    
 
