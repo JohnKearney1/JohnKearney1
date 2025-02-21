@@ -2,8 +2,8 @@
 
 I'm John! 
 
-🔭 I’m currently working on... Fiduciary tools (mainly Python) and UI/UX Design (JavaScript flavors).   
-🌱 I’m currently learning... Python, React, Node, and IPFS systems for distributed networking.
+🔭 I’m currently working on... Data Analysis and Personal Automation tools (mainly in Python)!
+🌱 I’m currently learning... React, Typescript, and CSS flavors for UI/UX Development!
 
 💬 Want to Contribute? [Contact](https://kearneyjohn.com/) me!
 
