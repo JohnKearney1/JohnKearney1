@@ -29,11 +29,6 @@
 ###
 
 <div align="center">
-I am a music producer and sound designer, attending university for Computer Science at Appalachian State.  
-I primarily enjoy web design, backend, and simple automation tools.  
-
-<div>  </div>
-
 🔭 I’m currently working on... Data Analysis and Personal Automation tools (mainly in Python)!  
 🌱 I’m currently learning... React, Typescript, and CSS flavors for UI/UX Development!
 
